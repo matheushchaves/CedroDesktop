@@ -1,0 +1,50 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 05/09/2013 16:06:05                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="173307">
+   <option outputname="cedro">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="C:\cedro2">
+   <option runparams="">
+   <option pathch="">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="471317,472025,173307">
+      <option rdd2="Sim">
+      <option fusesqllibfirst="Não">
+   </compilerparam>
+
+   <unit filename="cedro1.res" compile="Sim">
+   <unit filename="cedro1.prg" compile="Sim">
+   <unit filename="C:\xhb121\lib\codepage.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\pcrepos.lib" compile="Sim">
+   <unit filename="C:\bcc582\Lib\PSDK\psapi.lib" compile="Sim">
+   <unit filename="FastRepH.prg" compile="Sim">
+   <unit filename="C:\xhb121\lib\ct.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\ctmt.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\hbzip.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\pdflib.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\png.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\tip.lib" compile="Sim">
+   <unit filename="C:\xhb121\lib\zlib.lib" compile="Sim">
+</project>
